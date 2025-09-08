@@ -137,6 +137,19 @@ body {
   justify-content: space-between;
   align-items: center;
 }
+.course-table th {
+  background: #f0f0f0;
+  padding: 8px;
+  text-align: left;
+  font-size: 14px; /* pehle 12px tha */
+  border: 1px solid #ddd;
+}
+
+.course-table td {
+  padding: 6px 8px;
+  font-size: 14px; /* pehle 12px tha */
+  border: 1px solid #ddd;
+}
 
 /* Totals */
 .totals {
